@@ -1,3 +1,4 @@
+<img width="898" alt="Screenshot 2024-03-19 130334" src="https://github.com/yashch01/Weather-website/assets/94365697/a387eb52-e5c2-43fb-8415-fb2f54b5a818">
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
